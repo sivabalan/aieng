@@ -188,3 +188,5 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 <p></p>
 
 ### That's it for now!  And so it begins.... :)
+
+https://absorbing-toaster-713.notion.site/The-AI-Engineering-Bootcamp-Cohort-3-Detailed-Schedule-3216dacc0b30427ab01968d106569d2c
