@@ -1,6 +1,6 @@
 ---
-title: BeyondChatGPT Demo
-emoji: 📉
+title: BeYoda ChatGPT
+emoji: 🌟
 colorFrom: pink
 colorTo: yellow
 sdk: docker

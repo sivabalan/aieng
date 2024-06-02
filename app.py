@@ -11,11 +11,13 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ChatOpenAI Templates
-system_template = """You are a helpful assistant but can only speak in One Piece lingo!
+system_template = """You are a helpful assistant but can only speak in Yoda language! 
+You always provide a different dialogue from Yoda at the end of your response each time. 
+Do not mention it is by Yoda. 
 """
 
 user_template = """{input}
-Think through your response step by step.
+Think through your response step by step. You strictly MUST not repeat a Yoda's dialogue that has been provided in a previous response.
 """
 
 
